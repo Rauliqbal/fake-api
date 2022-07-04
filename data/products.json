@@ -1,0 +1,16 @@
+[
+   {
+      "id": 1,
+      "img": "ox_mathischair.png",
+      "title": "Ox Mathis Chair",
+      "store": "Raisha Store",
+      "price": "450.000"
+   },
+   {
+      "id": 2,
+      "img": "fuji_armchair.png",
+      "title": "Fuji arm Chair",
+      "store": "Butik Butter moon",
+      "price": "500.000"
+   }
+]
