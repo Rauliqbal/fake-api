@@ -1,0 +1,30 @@
+[
+   {
+      "id": 1,
+      "img": "swoon_lounge.png",
+      "title": "Swoon Lounge",
+      "store": "Regai Do Lobo",
+      "price": "855.000"
+   },
+   {
+      "id": 2,
+      "img": "touco_armchair.png",
+      "title": "Touco Armchair",
+      "store": "Akmal De Rasyid",
+      "price": "750.000"
+   },
+   {
+      "id": 3,
+      "img": "levi_armchair.png",
+      "title": "Levi Armchair",
+      "store": "Raul Store",
+      "price": "1.200.000"
+   },
+   {
+      "id": 4,
+      "img": "hiro_armchair.png",
+      "title": "Hiro Armchair",
+      "store": "Bubbu",
+      "price": "655.000"
+   }
+]
