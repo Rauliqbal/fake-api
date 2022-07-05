@@ -1,1 +1,2 @@
-# fake-product-api-json-server
+# FAKE API JSON SERVER
+## Crafty Furniture App
