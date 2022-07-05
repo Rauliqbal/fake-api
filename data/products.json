@@ -4,13 +4,49 @@
       "img": "ox_mathischair.png",
       "title": "Ox Mathis Chair",
       "store": "Raisha Store",
-      "price": "450.000"
+      "price": "450.000",
+      "desc": "The Swedish Designer Monica Forstar’s Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes."
    },
    {
       "id": 2,
       "img": "fuji_armchair.png",
       "title": "Fuji arm Chair",
       "store": "Butik Butter moon",
-      "price": "500.000"
-   }
+      "price": "500.000",
+      "desc" : "The Swedish Designer Monica Forstar’s Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes.",
+   },
+   {
+      "id": 3,
+      "img": "Georgjensen_milimalchair.png",
+      "title": "Georg Jensen Milimal Chair",
+      "store": "Butik Butter moon",
+      "price": "561.000",
+      "desc" : "The Swedish Designer Monica Forstar’s Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes.",
+   },
+   {
+      "id": 4,
+      "img": "pearly_foxchair.png",
+      "title": "Pearly Beading Fox Chair",
+      "store": "Barokah Furniture",
+      "price": "424.000",
+      "desc" : "The Swedish Designer Monica Forstar’s Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes.",
+   },
+   {
+      "id": 5,
+      "img": "florence_arcadiadhair.png",
+      "title": "Florence Arcadia Chair Chair",
+      "store": "Barokah Furniture",
+      "price": "646.000",
+      "desc" : "The Swedish Designer Monica Forstar’s Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes.",
+   },
+   {
+      "id": 6,
+      "img": "takumi_chair.png",
+      "title": "Atelier Ottoman Takumi Chair",
+      "store": "Raul jaya Furniture",
+      "price": "929.500",
+      "desc" : "The Swedish Designer Monica Forstar’s Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes.",
+   },
+
+
 ]
