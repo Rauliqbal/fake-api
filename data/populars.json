@@ -4,7 +4,7 @@
       "img": "swoon_lounge.png",
       "title": "Swoon Lounge",
       "store": "Regai Do Lobo",
-      "price": "855.000",
+      "price": 855000,
       "desc": "The Swedish Designer Monica Forstars Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes."
    },
    {
@@ -20,7 +20,7 @@
       "img": "levi_armchair.png",
       "title": "Levi Armchair",
       "store": "Raul Store",
-      "price": "1.200.000",
+      "price": "1200000",
       "desc": "The Swedish Designer Monica Forstars Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes."
    },
    {
@@ -28,7 +28,7 @@
       "img": "hiro_armchair.png",
       "title": "Hiro Armchair",
       "store": "Bubbu",
-      "price": "655.000",
+      "price": 655000,
       "desc": "The Swedish Designer Monica Forstars Style Is Characterised By her Enternal love For New Materials and Beautiful Pure Shapes."
    }
 ]
