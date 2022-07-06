@@ -1,13 +1,13 @@
 const products = require("./data/products");
 const populars = require("./data/populars");
 const cart = require("./data/cart");
-const itemTypes = require("./data/itemTypes");
+const itemTypes = require("./data/orders");
 
 module.exports = {
    products,
    populars,
    cart,
-   itemTypes,
+   orders,
 };
 
 // const items = require("./data/items");
